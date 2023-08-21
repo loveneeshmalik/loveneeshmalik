@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @loveneeshmalik
 - 👀 I’m interested in Web3 & Digital Marketing
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
-- 💞️ I’m looking to collaborate on Web3 Developers
+- 💞️ I’m looking to collaborate on Web3
 - 📫 How to reach me loveneeshmalik30@gmail.com
 
 <!---
